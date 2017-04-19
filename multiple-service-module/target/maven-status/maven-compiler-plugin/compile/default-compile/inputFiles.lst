@@ -1,0 +1,12 @@
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\enums\AccessType.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\interfaces\RSDocumentsService.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\implementation\DocumentDaoSql.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\controller\RSDocumentsServiceImpl.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\exceptions\DocumentException.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\model\Document.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\implementation\DocumentDaoMemory.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\exceptions\ExceptionHandler.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\constants\Constants.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\interfaces\DocumentDao.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\model\Chapter.java
+C:\Users\ded\workspace\MultipleModuleProject\multiple-service-module\src\main\java\by\training\wolterskluwer\factories\DocumentDaoFactory.java

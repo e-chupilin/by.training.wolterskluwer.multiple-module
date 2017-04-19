@@ -1,0 +1,15 @@
+by\training\wolterskluwer\model\Document$1.class
+by\training\wolterskluwer\exceptions\ExceptionHandler.class
+by\training\wolterskluwer\model\Chapter.class
+by\training\wolterskluwer\interfaces\RSDocumentsService.class
+by\training\wolterskluwer\factories\DocumentDaoFactory.class
+by\training\wolterskluwer\model\Document.class
+by\training\wolterskluwer\model\Document$Builder.class
+by\training\wolterskluwer\constants\Constants.class
+by\training\wolterskluwer\exceptions\DocumentException.class
+by\training\wolterskluwer\factories\DocumentDaoFactory$1.class
+by\training\wolterskluwer\implementation\DocumentDaoMemory.class
+by\training\wolterskluwer\interfaces\DocumentDao.class
+by\training\wolterskluwer\controller\RSDocumentsServiceImpl.class
+by\training\wolterskluwer\implementation\DocumentDaoSql.class
+by\training\wolterskluwer\enums\AccessType.class
